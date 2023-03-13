@@ -1,15 +1,15 @@
 body {
-	font: 26px "Century Gothic";
+	font: 40px "Century Gothic";
+    margin: 0 30%;
 }
 
 .image1 {
-    margin: 50px;
+    margin: 5% 1%;
 }
 
-.inputText{
-    
-    text-align: center;
-}
+
+
+
 
 /*
 ol, ul {
@@ -20,8 +20,7 @@ ol, ul {
 
 
 .backgrownd {
-    font: border 1.2em "Fira Sans", serif;
-    text-align: center;
+    margin:  2%;
 
 }
 
